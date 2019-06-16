@@ -6,7 +6,7 @@ Localization is performed using Hokuyo laser scanner and AMCL package.
 User can order movement using move_base package or Teleop package.
 
 <p align="center">
-  <img width="460" height="300" src="images/amcl_2.gif">
+  <img width="920" height="600" src="images/amcl_2.gif">
   <br>Robot localyzing himself in known map (AMCL)
 </p>
 
@@ -105,7 +105,7 @@ The contents of this repository are covered under the [MIT License](./LICENSE.tx
 
 ## Contributing
 
-1. Fork it (<https://github.com/michLab/project_2_ball_chaser.git>)
+1. Fork it (<https://github.com/michLab/project_3_localization.git>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
