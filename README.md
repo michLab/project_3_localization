@@ -75,28 +75,28 @@ To ensure proper localization after move the x and y position covarinaces were a
 The maximum number of particles was chosen in emirical manner and equals 5000.
 List of parameters worth of consideration when tuning:
 * in AMCL:
-** `initial_pose_x`
-** `initial_pose_y`
-** `initial_pose_a`
-** `initial_cov_xx`
-** `initial_cov_yy`
-** `min_particles`
-** `max_particles`
-** `update_min_a`
-** `update_min_d`
+  * `initial_pose_x`
+  * `initial_pose_y`
+  * `initial_pose_a`
+  * `initial_cov_xx`
+  * `initial_cov_yy`
+  * `min_particles`
+  * `max_particles`
+  * `update_min_a`
+  * `update_min_d`
 * in move_base:
-** `max_vel_x`
-** `min_vel_x`
-** `max_vel_theta`
-** `min_in_place_vel_theta`
-** `controller_frequency`
-** `planner_frequency`
-** `pdist_scale`
-** `gdist_scale`
-** ``occdist_scale`
-** `robot_radius`
-** `inflation_radius`
-** `cost_scaling_factor`
+  * `max_vel_x`
+  * `min_vel_x`
+  * `max_vel_theta`
+  * `min_in_place_vel_theta`
+  * `controller_frequency`
+  * `planner_frequency`
+  * `pdist_scale`
+  * `gdist_scale`
+  * ``occdist_scale`
+  * `robot_radius`
+  * `inflation_radius`
+  * `cost_scaling_factor`
 
 
 ## License
