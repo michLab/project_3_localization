@@ -93,7 +93,7 @@ List of parameters worth of consideration when tuning:
   * `planner_frequency`
   * `pdist_scale`
   * `gdist_scale`
-  * ``occdist_scale`
+  * `occdist_scale`
   * `robot_radius`
   * `inflation_radius`
   * `cost_scaling_factor`
